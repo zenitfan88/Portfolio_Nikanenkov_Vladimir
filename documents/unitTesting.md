@@ -1,0 +1,4 @@
+1. Объекты с внутренним состоянием, управление состоянием при тестировании. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/7) | [Решение](https://github.com/zenitfan88/Radio)  
+2. Композиция и зависимость объектов. Mockito при создании автотестов. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/8) | [Решение](https://github.com/zenitfan88/ManagerMovies)  
+3. Интерфейсы для организации малой связности. Обобщённое программирование(Generics). [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/9) | [Решение](https://github.com/zenitfan88/TicketManager.git)  
+4. Collections Framework. CRUD и тестирование систем, управляющих набором объектов. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/10) | [Решение](https://github.com/zenitfan88/Tournament.git)  

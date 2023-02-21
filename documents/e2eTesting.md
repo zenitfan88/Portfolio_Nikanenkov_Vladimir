@@ -1,0 +1,5 @@
+1. Тестирование веб-интерфейсов, Selenium и Selenide. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/1) | [Решение happy path](https://github.com/zenitfan88/TestForm.git), [Решение bad path](https://github.com/zenitfan88/OrderCard/tree/validation)  
+2. Selenide. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/2) | [Решение](https://github.com/zenitfan88/CardDelivery.git)
+3. Jest и Playwright. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/3) | [Решение](https://github.com/zenitfan88/Playwright.git)  
+4. Puppeteer & Cucumber. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/4) | [Решение Puppeteer](https://github.com/zenitfan88/PuppeteerChartTwo), [Решение Cucumberr](https://github.com/zenitfan88/PuppeteerChartTwo/tree/cucumber)  
+5. Cypress. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/5) | [Решение](https://github.com/zenitfan88/CypressChartTwo.git)
