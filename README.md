@@ -23,5 +23,6 @@
 - [Курсовая работа по итогам 4 модулей](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/blob/main/documents/certificate/courseWork.pdf)  
 - [JavaScrit для тестировщиков](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/blob/main/documents/certificate/JavaScript.pdf)  
 - [Автоматизированное тестирование вэб-интерфейсов](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/blob/main/documents/certificate/autoTestingJavaScript.pdf)  
+- [Тестирование мобильных приложений](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/blob/main/documents/certificate/Mobile.pdf)  
 
 *P.s Благодарю за уделенное нвремя! Надеюсь мое портфолио поможет Вам сделать правильный выбор!*
