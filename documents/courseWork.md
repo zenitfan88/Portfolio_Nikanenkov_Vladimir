@@ -1,4 +1,4 @@
-1. [Задание](https://github.com/zenitfan88/Portfolio_Nikanenkov_Vladimir/issues/6)  
+1. [Задание](https://github.com/netology-code/aqa-qamid-diplom)  
 2. [План тестирования](https://github.com/zenitfan88/CourseWork/blob/main/document/Plan.md)  
 3. [Тесты](https://github.com/zenitfan88/CourseWork)  
 4. [Баг-репорт](https://github.com/zenitfan88/CourseWork/issues)  
